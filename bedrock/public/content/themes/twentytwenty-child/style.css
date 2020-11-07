@@ -1,0 +1,26 @@
+/*
+Theme Name: Twenty Twenty Child
+Theme URL: http://github.com/jacoweb
+Description: Twenty Twenty Child Theme
+Author: Thomas
+Author URL: http://github.com/jacoweb
+Template: twentytwenty
+Version: 1.0.0
+Text Domain: twentytwenty-child
+*/ 
+
+/* ======================== */
+/* Custom styles goes here  */
+/* ======================== */
+
+.entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
+    max-width: 860px;
+}
+
+.wp-block-code {
+    background: #22193e;
+}
+
+.wp-block-code > code {
+    color: #fff;
+}

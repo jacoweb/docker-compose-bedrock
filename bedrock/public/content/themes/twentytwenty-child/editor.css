@@ -1,0 +1,15 @@
+/* ======================== */
+/* WP Editor custom styles */
+/* ======================== */
+
+.wp-block {
+    max-width: 960px;
+}
+
+.wp-block-code {
+    background: #22193e;
+}
+
+.wp-block-code > code {
+    color: #fff;
+}
